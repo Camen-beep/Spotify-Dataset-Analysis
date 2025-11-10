@@ -1,7 +1,7 @@
 # 🎵 Spotify Songs Data Analysis
 
 ## 📌 Project Overview
-This is a practice project inspired by a **YouTube tutorial**, using a **Kaggle dataset** to perform basic data analysis on Spotify songs.  
+This is a practice project inspired by a [YouTube tutorial](https://www.youtube.com/watch?v=bynsxAbjImQ), using a [Kaggle dataset](https://www.kaggle.com/datasets/geomack/spotifyclassification) to perform basic data analysis on Spotify songs.
 
 The analysis focuses on:  
 - The dataset creator’s favorite artists and songs  
