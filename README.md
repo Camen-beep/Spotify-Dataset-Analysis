@@ -27,7 +27,7 @@ This project is designed for those who want to practice **music data analysis** 
 
 ---
 
-## 📊 Sample Analysis Results
+## 📊 Analysis Results
 - Identified the dataset creator’s favorite artists and songs  
 - Created visualizations to show the distribution of different song features  
 
